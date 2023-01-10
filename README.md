@@ -21,4 +21,3 @@
 </div>
 
 ![snake animation](https://github.com/sofiscsm/sofiscsm/blob/output/github-contribution-grid-snake.svg)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
